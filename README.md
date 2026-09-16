@@ -1,7 +1,7 @@
 <h1 align="center">🩸 Blood Donation Prediction using Machine Learning</h1>
 
 <p align="center">
-  An end-to-end Machine Learning classification project to predict whether a donor is likely to donate blood in the next donation cycle.
+  An end-to-end Machine Learning classification project to predict whether a donor will donate blood in the next donation cycle.
 </p>
 
 ---
